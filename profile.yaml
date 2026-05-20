@@ -1,0 +1,170 @@
+# ══════════════════════════════════════════════════════════════════════════════
+# Job Tracker — Your Profile
+# Fill this out once. The tool generates your AI filter prompt automatically.
+# ══════════════════════════════════════════════════════════════════════════════
+
+candidate:
+  # Your education history (most recent first)
+  education:
+    - "State University — BA, Political Science"
+    - "City Law School — JD"
+
+  # Your career history (most recent first)
+  experience:
+    - "Management Consulting Firm — strategy and operations consulting"
+    - "Policy Nonprofit — policy research and advocacy"
+    - "Tech Company — business development and partnerships"
+
+  # Key skills (be specific — Claude uses these to match job descriptions)
+  skills:
+    - "Strategy, stakeholder management, cross-functional program management"
+    - "Policy analysis and regulatory work"
+    - "Business development and partnerships"
+    - "Operations and process improvement"
+    - "Data analysis and Excel/Sheets modeling"
+
+  # Languages (fluency level) — delete this section if not applicable
+  languages:
+    - "English (native)"
+    - "Spanish (conversational)"
+
+# ── Target Roles ───────────────────────────────────────────────────────────────
+# Roles in these categories get scored 7–10 by Claude.
+# Add, remove, or rewrite categories to match what you're looking for.
+
+target_roles:
+  - category: "Strategy & Operations"
+    description: >
+      Chief of Staff, Strategy & Operations, Strategic Initiatives,
+      Business Operations, Special Projects, Executive Office roles
+
+  - category: "Business Development & Partnerships"
+    description: >
+      Partnerships Manager/Director, Business Development,
+      Strategic Alliances, Corporate Development, Deal Origination
+
+  - category: "Policy, Legal & Government Affairs"
+    description: >
+      Policy Analyst/Manager, Government Affairs, Regulatory Affairs,
+      Legal Operations, Compliance (non-pure-legal-practice roles),
+      Program Officer at foundations/think tanks
+
+  - category: "University & Education Administration"
+    description: >
+      Director/Associate Director of Administration, Strategic Initiatives
+      at universities, Academic Affairs, Student Affairs (senior),
+      Innovation programs (entrepreneurship labs), Continuing Ed leadership
+
+  - category: "Philanthropy & Nonprofits"
+    description: >
+      Program Officer, Director of Strategic Initiatives, Grants Management,
+      Partnership roles at foundations
+
+  - category: "Edtech & Education Technology"
+    description: >
+      Partnerships, business development, curriculum, or strategy at edtech companies —
+      especially language learning, adult education, or workforce development
+
+# ── Seniority ──────────────────────────────────────────────────────────────────
+# The tool uses these to pre-filter before hitting the Claude API (saves tokens).
+
+seniority:
+  # Roles at this level score highest
+  target_titles:
+    - "Manager"
+    - "Senior Manager"
+    - "Director"
+    - "Associate Director"
+    - "Senior Associate"
+    - "Program Officer"
+    - "Partnerships Manager"
+    - "Chief of Staff"
+
+  # Keywords in job titles that indicate too-senior roles (excluded pre-Claude)
+  too_senior:
+    - "vice president"
+    - "vp,"
+    - "vp "
+    - " vp,"
+    - "(vp)"
+    - "svp"
+    - "evp"
+    - "chief "
+    - "ceo"
+    - "coo"
+    - "cfo"
+    - "cto"
+    - "cmo"
+    - "managing director"
+    - "managing partner"
+    - "executive director"
+    - "partner,"
+    - " partner"
+    - "principal,"
+    - "head of"
+    - "global head"
+
+  # Exceptions: even if a title matches too_senior, keep it if these words appear
+  senior_exceptions:
+    - "assistant"
+    - "associate"
+    - "deputy"
+    - "junior"
+    - "program"
+    - "nonprofit"
+    - "foundation"
+    - "institute"
+
+  # Keywords that indicate too-junior roles (excluded pre-Claude)
+  too_junior:
+    - "intern"
+    - "internship"
+    - "entry level"
+    - "entry-level"
+    - "junior "
+    - "jr."
+    - "administrative assistant"
+    - "receptionist"
+    - "coordinator i,"
+    - "coordinator i "
+
+  # Role types to score low even if title passes filters
+  deprioritize:
+    - pattern: "product manager"
+      max_score: 5
+      reason: "Not a priority role type unless heavily strategy-flavored"
+
+# ── Location ───────────────────────────────────────────────────────────────────
+
+locations:
+  # Cities you're willing to work in (case-insensitive substring match)
+  target_cities:
+    - "new york"
+    - "nyc"
+    - "brooklyn"
+    - "manhattan"
+    - "los angeles"
+    - "la,"
+    - " la "
+    - "san francisco"
+    - "sf,"
+    - " sf "
+    - "bay area"
+    - "oakland"
+    - "washington"
+    - "dc"
+    - "united states"
+    - "usa"
+    - "u.s."
+
+  # If true, jobs with "remote", "distributed", "work from home" pass the location filter
+  remote_ok: true
+
+# ── Scoring Boosts ─────────────────────────────────────────────────────────────
+
+scoring:
+  boost_remote: true            # +1 if remote-friendly or based in your target city
+  boost_multilingual: false     # +1 if role values multilingual candidates
+  boost_experience_range: "3-7 years"   # +1 if this experience range is mentioned
+  penalize_overspecialized: true  # -3 if role requires 10+ years in a specific industry
+  penalize_technical: true        # -2 if deep technical skills are primary qualification

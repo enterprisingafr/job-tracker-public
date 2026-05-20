@@ -1,0 +1,2749 @@
+{
+  "companies": [
+    {
+      "name": "NYU",
+      "ats": "workday",
+      "workday_url": "https://wd1.myworkdayjobs.com/wday/cxs/NYU/NYU"
+    },
+    {
+      "name": "Columbia University",
+      "ats": "greenhouse",
+      "slug": "columbia-university"
+    },
+    {
+      "name": "Harvard University",
+      "ats": "workday",
+      "workday_url": "https://harvard.wd5.myworkdayjobs.com/wday/cxs/HarvardCareers"
+    },
+    {
+      "name": "Cornell University",
+      "ats": "greenhouse",
+      "slug": "cornell-university"
+    },
+    {
+      "name": "Johns Hopkins University",
+      "ats": "workday",
+      "workday_url": "https://jobs.jhu.edu/cxs/jhu/JHU"
+    },
+    {
+      "name": "Georgetown University",
+      "ats": "workday",
+      "workday_url": "https://georgetown.wd1.myworkdayjobs.com/wday/cxs/Georgetown/Georgetown_Admin"
+    },
+    {
+      "name": "Yale University",
+      "ats": "workday",
+      "workday_url": "https://yale.wd5.myworkdayjobs.com/wday/cxs/yale-careers"
+    },
+    {
+      "name": "The New School",
+      "ats": "greenhouse",
+      "slug": "the-new-school"
+    },
+    {
+      "name": "Pratt Institute",
+      "ats": "custom",
+      "careers_url": "https://pratt.bamboohr.com/jobs"
+    },
+    {
+      "name": "Fordham University",
+      "ats": "workday",
+      "workday_url": "https://fordham.wd1.myworkdayjobs.com/wday/cxs/Fordham"
+    },
+    {
+      "name": "CUNY",
+      "ats": "workday",
+      "workday_url": "https://cuny.wd1.myworkdayjobs.com/wday/cxs/CUNY"
+    },
+    {
+      "name": "Barnard College",
+      "ats": "workday",
+      "workday_url": "https://barnard.wd1.myworkdayjobs.com/wday/cxs/Barnard"
+    },
+    {
+      "name": "Yeshiva University",
+      "ats": "workday",
+      "workday_url": "https://yu.wd1.myworkdayjobs.com/wday/cxs/YU"
+    },
+    {
+      "name": "New York Law School",
+      "ats": "custom",
+      "careers_url": "https://www.nyls.edu/about/offices-and-resources/human-resources/employment-opportunities"
+    },
+    {
+      "name": "Pace University",
+      "ats": "workday",
+      "workday_url": "https://pace.wd1.myworkdayjobs.com/wday/cxs/Pace"
+    },
+    {
+      "name": "Parsons School of Design",
+      "ats": "greenhouse",
+      "slug": "parsons"
+    },
+    {
+      "name": "School of Visual Arts",
+      "ats": "custom",
+      "careers_url": "https://sva.bamboohr.com/jobs"
+    },
+    {
+      "name": "USC",
+      "ats": "workday",
+      "workday_url": "https://usc.wd5.myworkdayjobs.com/wday/cxs/ExternalUSCCareers"
+    },
+    {
+      "name": "UCLA",
+      "ats": "custom",
+      "careers_url": "https://hr.ucla.edu/recruitment/jobs"
+    },
+    {
+      "name": "UC Berkeley",
+      "ats": "workday",
+      "workday_url": "https://ucb.wd5.myworkdayjobs.com/wday/cxs/External"
+    },
+    {
+      "name": "Stanford University",
+      "ats": "workday",
+      "workday_url": "https://stanford.wd1.myworkdayjobs.com/wday/cxs/External"
+    },
+    {
+      "name": "UCSF",
+      "ats": "workday",
+      "workday_url": "https://ucsf.wd5.myworkdayjobs.com/wday/cxs/Careers"
+    },
+    {
+      "name": "San Francisco State University",
+      "ats": "custom",
+      "careers_url": "https://careers.sfsu.edu"
+    },
+    {
+      "name": "Santa Clara University",
+      "ats": "workday",
+      "workday_url": "https://santaclara.wd1.myworkdayjobs.com/wday/cxs/SCU/Careers"
+    },
+    {
+      "name": "Loyola Marymount University",
+      "ats": "workday",
+      "workday_url": "https://lmu.wd1.myworkdayjobs.com/wday/cxs/LMU"
+    },
+    {
+      "name": "Occidental College",
+      "ats": "custom",
+      "careers_url": "https://www.oxy.edu/offices-services/human-resources/jobs-oxy"
+    },
+    {
+      "name": "Claremont McKenna College",
+      "ats": "custom",
+      "careers_url": "https://www.cmc.edu/human-resources/employment"
+    },
+    {
+      "name": "American University",
+      "ats": "workday",
+      "workday_url": "https://american.wd1.myworkdayjobs.com/wday/cxs/American"
+    },
+    {
+      "name": "Howard University",
+      "ats": "workday",
+      "workday_url": "https://howard.wd1.myworkdayjobs.com/wday/cxs/Howard"
+    },
+    {
+      "name": "George Washington University",
+      "ats": "workday",
+      "workday_url": "https://www.gwu.jobs"
+    },
+    {
+      "name": "Princeton University",
+      "ats": "workday",
+      "workday_url": "https://princeton.wd5.myworkdayjobs.com/wday/cxs/External"
+    },
+    {
+      "name": "Brown University",
+      "ats": "workday",
+      "workday_url": "https://brown.wd5.myworkdayjobs.com/wday/cxs/staff-careers-brown"
+    },
+    {
+      "name": "Tufts University",
+      "ats": "workday",
+      "workday_url": "https://tufts.wd1.myworkdayjobs.com/wday/cxs/TuftsExternalCareers"
+    },
+    {
+      "name": "Morehouse College",
+      "ats": "custom",
+      "careers_url": "https://www.morehouse.edu/hr/careers"
+    },
+    {
+      "name": "Spelman College",
+      "ats": "custom",
+      "careers_url": "https://www.spelman.edu/about-us/offices-services/human-resources/employment-opportunities"
+    },
+    {
+      "name": "Xavier University of Louisiana",
+      "ats": "custom",
+      "careers_url": "https://www.xula.edu/hr/employment.html"
+    },
+    {
+      "name": "Ford Foundation",
+      "ats": "greenhouse",
+      "slug": "ford-foundation"
+    },
+    {
+      "name": "MacArthur Foundation",
+      "ats": "custom",
+      "careers_url": "https://macfound.bamboohr.com/jobs"
+    },
+    {
+      "name": "Open Society Foundations",
+      "ats": "greenhouse",
+      "slug": "open-society-foundations"
+    },
+    {
+      "name": "Rockefeller Foundation",
+      "ats": "greenhouse",
+      "slug": "rockefeller-foundation"
+    },
+    {
+      "name": "Gates Foundation",
+      "ats": "workday",
+      "workday_url": "https://gatesfoundation.wd1.myworkdayjobs.com/wday/cxs/BMGF/BMGF_Careers"
+    },
+    {
+      "name": "Carnegie Corporation of New York",
+      "ats": "greenhouse",
+      "slug": "carnegie-corporation"
+    },
+    {
+      "name": "Knight Foundation",
+      "ats": "greenhouse",
+      "slug": "knight-foundation"
+    },
+    {
+      "name": "Luminate",
+      "ats": "greenhouse",
+      "slug": "luminate"
+    },
+    {
+      "name": "Omidyar Network",
+      "ats": "lever",
+      "slug": "omidyar-network"
+    },
+    {
+      "name": "Hewlett Foundation",
+      "ats": "greenhouse",
+      "slug": "hewlett-foundation"
+    },
+    {
+      "name": "Schmidt Futures",
+      "ats": "lever",
+      "slug": "schmidt-futures"
+    },
+    {
+      "name": "Bloomberg Philanthropies",
+      "ats": "greenhouse",
+      "slug": "bloomberg-philanthropies"
+    },
+    {
+      "name": "Wellcome Trust",
+      "ats": "greenhouse",
+      "slug": "wellcome"
+    },
+    {
+      "name": "Chan Zuckerberg Initiative",
+      "ats": "lever",
+      "slug": "chan-zuckerberg-initiative"
+    },
+    {
+      "name": "Skoll Foundation",
+      "ats": "greenhouse",
+      "slug": "skoll-foundation"
+    },
+    {
+      "name": "Packard Foundation",
+      "ats": "greenhouse",
+      "slug": "packard-foundation"
+    },
+    {
+      "name": "Robert Wood Johnson Foundation",
+      "ats": "greenhouse",
+      "slug": "rwjf"
+    },
+    {
+      "name": "Annie E. Casey Foundation",
+      "ats": "greenhouse",
+      "slug": "aecf"
+    },
+    {
+      "name": "W.K. Kellogg Foundation",
+      "ats": "greenhouse",
+      "slug": "wkkf"
+    },
+    {
+      "name": "Joyce Foundation",
+      "ats": "greenhouse",
+      "slug": "joyce-foundation"
+    },
+    {
+      "name": "Lumina Foundation",
+      "ats": "greenhouse",
+      "slug": "lumina-foundation"
+    },
+    {
+      "name": "Walton Family Foundation",
+      "ats": "greenhouse",
+      "slug": "walton-family-foundation"
+    },
+    {
+      "name": "Mellon Foundation",
+      "ats": "greenhouse",
+      "slug": "the-mellon-foundation"
+    },
+    {
+      "name": "Getty Foundation",
+      "ats": "greenhouse",
+      "slug": "getty-foundation"
+    },
+    {
+      "name": "Annenberg Foundation",
+      "ats": "custom",
+      "careers_url": "https://www.annenberg.org/about/careers"
+    },
+    {
+      "name": "California Endowment",
+      "ats": "greenhouse",
+      "slug": "the-california-endowment"
+    },
+    {
+      "name": "James Irvine Foundation",
+      "ats": "greenhouse",
+      "slug": "irvine-foundation"
+    },
+    {
+      "name": "Weingart Foundation",
+      "ats": "custom",
+      "careers_url": "https://weingart.bamboohr.com/jobs"
+    },
+    {
+      "name": "Silicon Valley Community Foundation",
+      "ats": "greenhouse",
+      "slug": "svcf"
+    },
+    {
+      "name": "New York Community Trust",
+      "ats": "custom",
+      "careers_url": "https://www.nycommunitytrust.org/about-us/careers"
+    },
+    {
+      "name": "Robin Hood Foundation",
+      "ats": "greenhouse",
+      "slug": "robin-hood-foundation"
+    },
+    {
+      "name": "Tiger Foundation",
+      "ats": "custom",
+      "careers_url": "https://www.tigerfoundation.org/about/careers"
+    },
+    {
+      "name": "Stavros Niarchos Foundation",
+      "ats": "greenhouse",
+      "slug": "snf"
+    },
+    {
+      "name": "Aga Khan Foundation USA",
+      "ats": "custom",
+      "careers_url": "https://www.akdn.org/careers"
+    },
+    {
+      "name": "Africa-America Institute",
+      "ats": "custom",
+      "careers_url": "https://www.aaionline.org/employment"
+    },
+    {
+      "name": "African Development Foundation",
+      "ats": "custom",
+      "careers_url": "https://www.usadf.gov/careers"
+    },
+    {
+      "name": "MasterCard Foundation",
+      "ats": "greenhouse",
+      "slug": "mastercard-foundation"
+    },
+    {
+      "name": "Mo Ibrahim Foundation",
+      "ats": "custom",
+      "careers_url": "https://mo.ibrahim.foundation/work-with-us"
+    },
+    {
+      "name": "Tony Elumelu Foundation",
+      "ats": "custom",
+      "careers_url": "https://www.tonyelumelufoundation.org/careers"
+    },
+    {
+      "name": "United Nations Secretariat",
+      "ats": "custom",
+      "careers_url": "https://careers.un.org"
+    },
+    {
+      "name": "UNDP",
+      "ats": "custom",
+      "careers_url": "https://jobs.undp.org"
+    },
+    {
+      "name": "UNICEF",
+      "ats": "custom",
+      "careers_url": "https://jobs.unicef.org"
+    },
+    {
+      "name": "UNESCO",
+      "ats": "custom",
+      "careers_url": "https://careers.unesco.org"
+    },
+    {
+      "name": "ILO",
+      "ats": "custom",
+      "careers_url": "https://www.ilo.org/global/about-the-ilo/employment"
+    },
+    {
+      "name": "World Bank Group",
+      "ats": "custom",
+      "careers_url": "https://jobs.worldbank.org"
+    },
+    {
+      "name": "IMF",
+      "ats": "custom",
+      "careers_url": "https://www.imf.org/en/About/Recruitment"
+    },
+    {
+      "name": "Inter-American Development Bank",
+      "ats": "custom",
+      "careers_url": "https://www.iadb.org/en/careers"
+    },
+    {
+      "name": "African Development Bank",
+      "ats": "custom",
+      "careers_url": "https://www.afdb.org/en/about/careers"
+    },
+    {
+      "name": "Asian Development Bank",
+      "ats": "custom",
+      "careers_url": "https://www.adb.org/site/careers/main"
+    },
+    {
+      "name": "OECD",
+      "ats": "custom",
+      "careers_url": "https://www.oecd.org/careers"
+    },
+    {
+      "name": "Council of Europe",
+      "ats": "custom",
+      "careers_url": "https://www.coe.int/en/web/jobs"
+    },
+    {
+      "name": "UN Women",
+      "ats": "custom",
+      "careers_url": "https://jobs.unwomen.org"
+    },
+    {
+      "name": "UNFPA",
+      "ats": "custom",
+      "careers_url": "https://www.unfpa.org/jobs"
+    },
+    {
+      "name": "UN Global Compact",
+      "ats": "greenhouse",
+      "slug": "un-global-compact"
+    },
+    {
+      "name": "UN Foundation",
+      "ats": "greenhouse",
+      "slug": "un-foundation"
+    },
+    {
+      "name": "International Finance Corporation",
+      "ats": "custom",
+      "careers_url": "https://www.ifc.org/en/careers"
+    },
+    {
+      "name": "Overseas Private Investment Corp / DFC",
+      "ats": "custom",
+      "careers_url": "https://www.dfc.gov/about-us/careers"
+    },
+    {
+      "name": "USAID",
+      "ats": "custom",
+      "careers_url": "https://www.usaid.gov/careers"
+    },
+    {
+      "name": "Millennium Challenge Corporation",
+      "ats": "custom",
+      "careers_url": "https://www.mcc.gov/careers"
+    },
+    {
+      "name": "African Union Commission",
+      "ats": "custom",
+      "careers_url": "https://au.int/en/vacancies"
+    },
+    {
+      "name": "ECOWAS Commission",
+      "ats": "custom",
+      "careers_url": "https://www.ecowas.int/jobs"
+    },
+    {
+      "name": "East African Community",
+      "ats": "custom",
+      "careers_url": "https://www.eac.int/jobs"
+    },
+    {
+      "name": "International Criminal Court",
+      "ats": "custom",
+      "careers_url": "https://www.icc-cpi.int/recruitment"
+    },
+    {
+      "name": "World Trade Organization",
+      "ats": "custom",
+      "careers_url": "https://www.wto.org/english/thewto_e/vacancies_e/vacancies_e.htm"
+    },
+    {
+      "name": "WHO",
+      "ats": "custom",
+      "careers_url": "https://www.who.int/careers"
+    },
+    {
+      "name": "IFAD",
+      "ats": "custom",
+      "careers_url": "https://www.ifad.org/en/careers"
+    },
+    {
+      "name": "WFP",
+      "ats": "custom",
+      "careers_url": "https://career5.successfactors.eu/careers?company=C0000168410P"
+    },
+    {
+      "name": "Global Fund",
+      "ats": "custom",
+      "careers_url": "https://jobs.theglobalfund.org"
+    },
+    {
+      "name": "Gavi Alliance",
+      "ats": "custom",
+      "careers_url": "https://www.gavi.org/careers"
+    },
+    {
+      "name": "International IDEA",
+      "ats": "custom",
+      "careers_url": "https://www.idea.int/vacancies"
+    },
+    {
+      "name": "Brennan Center for Justice",
+      "ats": "greenhouse",
+      "slug": "brennan-center-for-justice"
+    },
+    {
+      "name": "Brookings Institution",
+      "ats": "greenhouse",
+      "slug": "brookings"
+    },
+    {
+      "name": "Center for American Progress",
+      "ats": "greenhouse",
+      "slug": "center-for-american-progress"
+    },
+    {
+      "name": "Urban Institute",
+      "ats": "greenhouse",
+      "slug": "urban-institute"
+    },
+    {
+      "name": "RAND Corporation",
+      "ats": "workday",
+      "workday_url": "https://rand.wd5.myworkdayjobs.com/wday/cxs/RAND/RANDExternal"
+    },
+    {
+      "name": "New America",
+      "ats": "greenhouse",
+      "slug": "new-america"
+    },
+    {
+      "name": "Council on Foreign Relations",
+      "ats": "greenhouse",
+      "slug": "council-on-foreign-relations"
+    },
+    {
+      "name": "Atlantic Council",
+      "ats": "greenhouse",
+      "slug": "atlantic-council"
+    },
+    {
+      "name": "Demos",
+      "ats": "greenhouse",
+      "slug": "demos"
+    },
+    {
+      "name": "ACLU",
+      "ats": "greenhouse",
+      "slug": "aclu"
+    },
+    {
+      "name": "NRDC",
+      "ats": "greenhouse",
+      "slug": "nrdc"
+    },
+    {
+      "name": "Vera Institute of Justice",
+      "ats": "greenhouse",
+      "slug": "vera-institute-of-justice"
+    },
+    {
+      "name": "Legal Aid Society",
+      "ats": "greenhouse",
+      "slug": "the-legal-aid-society"
+    },
+    {
+      "name": "Innocence Project",
+      "ats": "greenhouse",
+      "slug": "innocence-project"
+    },
+    {
+      "name": "NAACP Legal Defense Fund",
+      "ats": "greenhouse",
+      "slug": "naacp-legal-defense-fund"
+    },
+    {
+      "name": "Equal Justice Initiative",
+      "ats": "lever",
+      "slug": "equal-justice-initiative"
+    },
+    {
+      "name": "Human Rights Watch",
+      "ats": "greenhouse",
+      "slug": "human-rights-watch"
+    },
+    {
+      "name": "Amnesty International USA",
+      "ats": "greenhouse",
+      "slug": "amnesty-international-usa"
+    },
+    {
+      "name": "Center for Strategic & International Studies",
+      "ats": "greenhouse",
+      "slug": "csis"
+    },
+    {
+      "name": "Wilson Center",
+      "ats": "greenhouse",
+      "slug": "wilson-center"
+    },
+    {
+      "name": "Carnegie Endowment for International Peace",
+      "ats": "greenhouse",
+      "slug": "carnegie-endowment"
+    },
+    {
+      "name": "Africa Center for Strategic Studies",
+      "ats": "custom",
+      "careers_url": "https://africacenter.org/about/job-opportunities"
+    },
+    {
+      "name": "ONE Campaign",
+      "ats": "greenhouse",
+      "slug": "one-campaign"
+    },
+    {
+      "name": "Oxfam America",
+      "ats": "greenhouse",
+      "slug": "oxfam-america"
+    },
+    {
+      "name": "International Rescue Committee",
+      "ats": "workday",
+      "workday_url": "https://rescue.wd5.myworkdayjobs.com/wday/cxs/IRC/IRCCareers"
+    },
+    {
+      "name": "Mercy Corps",
+      "ats": "lever",
+      "slug": "mercy-corps"
+    },
+    {
+      "name": "Save the Children",
+      "ats": "workday",
+      "workday_url": "https://stcus.wd1.myworkdayjobs.com/wday/cxs/STCUS/SavetheChildren"
+    },
+    {
+      "name": "Management Systems International",
+      "ats": "greenhouse",
+      "slug": "management-systems-international"
+    },
+    {
+      "name": "Chemonics",
+      "ats": "greenhouse",
+      "slug": "chemonics"
+    },
+    {
+      "name": "DAI Global",
+      "ats": "greenhouse",
+      "slug": "dai-global"
+    },
+    {
+      "name": "FHI 360",
+      "ats": "workday",
+      "workday_url": "https://fhi360.wd1.myworkdayjobs.com/wday/cxs/FHI360"
+    },
+    {
+      "name": "PATH",
+      "ats": "workday",
+      "workday_url": "https://path.wd5.myworkdayjobs.com/wday/cxs/PATH"
+    },
+    {
+      "name": "Population Services International",
+      "ats": "greenhouse",
+      "slug": "psi"
+    },
+    {
+      "name": "Pew Research Center",
+      "ats": "greenhouse",
+      "slug": "pew-research-center"
+    },
+    {
+      "name": "Data & Society",
+      "ats": "greenhouse",
+      "slug": "data-and-society"
+    },
+    {
+      "name": "Vera Solutions",
+      "ats": "greenhouse",
+      "slug": "vera-solutions"
+    },
+    {
+      "name": "Netflix",
+      "ats": "lever",
+      "slug": "netflix"
+    },
+    {
+      "name": "Spotify",
+      "ats": "greenhouse",
+      "slug": "spotify"
+    },
+    {
+      "name": "Conde Nast",
+      "ats": "greenhouse",
+      "slug": "conde-nast"
+    },
+    {
+      "name": "Vox Media",
+      "ats": "greenhouse",
+      "slug": "vox-media"
+    },
+    {
+      "name": "The Atlantic",
+      "ats": "greenhouse",
+      "slug": "the-atlantic"
+    },
+    {
+      "name": "NPR",
+      "ats": "greenhouse",
+      "slug": "npr"
+    },
+    {
+      "name": "PBS",
+      "ats": "greenhouse",
+      "slug": "pbs"
+    },
+    {
+      "name": "Participant Media",
+      "ats": "lever",
+      "slug": "participant"
+    },
+    {
+      "name": "A24",
+      "ats": "lever",
+      "slug": "a24"
+    },
+    {
+      "name": "Macro",
+      "ats": "lever",
+      "slug": "macro-media"
+    },
+    {
+      "name": "Sundance Institute",
+      "ats": "greenhouse",
+      "slug": "sundance-institute"
+    },
+    {
+      "name": "iHeart Media",
+      "ats": "greenhouse",
+      "slug": "iheartmedia"
+    },
+    {
+      "name": "Warner Bros Discovery",
+      "ats": "workday",
+      "workday_url": "https://warnerbros.wd5.myworkdayjobs.com/wday/cxs/WarnerMedia/WarnerMediaCareers"
+    },
+    {
+      "name": "NBCUniversal",
+      "ats": "workday",
+      "workday_url": "https://nbcunicareers.com"
+    },
+    {
+      "name": "Paramount",
+      "ats": "workday",
+      "workday_url": "https://paramount.wd1.myworkdayjobs.com/wday/cxs/Paramount_External"
+    },
+    {
+      "name": "Sony Pictures",
+      "ats": "workday",
+      "workday_url": "https://sonypictures.wd5.myworkdayjobs.com/wday/cxs/Sony"
+    },
+    {
+      "name": "Disney",
+      "ats": "workday",
+      "workday_url": "https://disney.wd5.myworkdayjobs.com/wday/cxs/disneycareer"
+    },
+    {
+      "name": "Lionsgate",
+      "ats": "workday",
+      "workday_url": "https://lionsgate.wd5.myworkdayjobs.com/wday/cxs/Lionsgate"
+    },
+    {
+      "name": "Legendary Entertainment",
+      "ats": "greenhouse",
+      "slug": "legendary-entertainment"
+    },
+    {
+      "name": "DreamWorks Animation",
+      "ats": "workday",
+      "workday_url": "https://dreamworks.wd5.myworkdayjobs.com/wday/cxs/DWA"
+    },
+    {
+      "name": "Imagine Entertainment",
+      "ats": "custom",
+      "careers_url": "https://www.imagine-entertainment.com/careers"
+    },
+    {
+      "name": "Anonymous Content",
+      "ats": "custom",
+      "careers_url": "https://www.anonymouscontent.com/careers"
+    },
+    {
+      "name": "ARRAY",
+      "ats": "greenhouse",
+      "slug": "array"
+    },
+    {
+      "name": "Color of Change",
+      "ats": "greenhouse",
+      "slug": "color-of-change"
+    },
+    {
+      "name": "Issa Rae Productions",
+      "ats": "custom",
+      "careers_url": "https://www.issarae.com/careers"
+    },
+    {
+      "name": "New York Times",
+      "ats": "greenhouse",
+      "slug": "new-york-times"
+    },
+    {
+      "name": "Washington Post",
+      "ats": "greenhouse",
+      "slug": "washington-post"
+    },
+    {
+      "name": "The Guardian US",
+      "ats": "greenhouse",
+      "slug": "the-guardian"
+    },
+    {
+      "name": "Hearst",
+      "ats": "workday",
+      "workday_url": "https://hearst.wd5.myworkdayjobs.com/wday/cxs/Hearst_Careers"
+    },
+    {
+      "name": "Meredith / Dotdash",
+      "ats": "greenhouse",
+      "slug": "dotdash-meredith"
+    },
+    {
+      "name": "BuzzFeed",
+      "ats": "greenhouse",
+      "slug": "buzzfeed"
+    },
+    {
+      "name": "Vice Media",
+      "ats": "greenhouse",
+      "slug": "vice-media"
+    },
+    {
+      "name": "The Root",
+      "ats": "greenhouse",
+      "slug": "the-root"
+    },
+    {
+      "name": "Essence Communications",
+      "ats": "greenhouse",
+      "slug": "essence"
+    },
+    {
+      "name": "Blavity",
+      "ats": "greenhouse",
+      "slug": "blavity"
+    },
+    {
+      "name": "Ebony Media",
+      "ats": "custom",
+      "careers_url": "https://www.ebony.com/careers"
+    },
+    {
+      "name": "Revolt TV",
+      "ats": "greenhouse",
+      "slug": "revolt"
+    },
+    {
+      "name": "OWN Network",
+      "ats": "workday",
+      "workday_url": "https://warnerbros.wd5.myworkdayjobs.com/wday/cxs/WarnerMedia/WarnerMediaCareers"
+    },
+    {
+      "name": "Criterion Channel",
+      "ats": "custom",
+      "careers_url": "https://www.criterion.com/about#jobs"
+    },
+    {
+      "name": "Mubi",
+      "ats": "greenhouse",
+      "slug": "mubi"
+    },
+    {
+      "name": "Pitchfork Media",
+      "ats": "greenhouse",
+      "slug": "pitchfork"
+    },
+    {
+      "name": "Spotify Studios",
+      "ats": "greenhouse",
+      "slug": "spotify"
+    },
+    {
+      "name": "Audible",
+      "ats": "custom",
+      "careers_url": "https://www.audible.jobs"
+    },
+    {
+      "name": "Stitcher",
+      "ats": "greenhouse",
+      "slug": "stitcher"
+    },
+    {
+      "name": "PRX",
+      "ats": "greenhouse",
+      "slug": "prx"
+    },
+    {
+      "name": "WNYC / New York Public Radio",
+      "ats": "greenhouse",
+      "slug": "new-york-public-radio"
+    },
+    {
+      "name": "KQED",
+      "ats": "greenhouse",
+      "slug": "kqed"
+    },
+    {
+      "name": "KCRW",
+      "ats": "greenhouse",
+      "slug": "kcrw"
+    },
+    {
+      "name": "LA Times",
+      "ats": "greenhouse",
+      "slug": "los-angeles-times"
+    },
+    {
+      "name": "SF Chronicle",
+      "ats": "greenhouse",
+      "slug": "san-francisco-chronicle"
+    },
+    {
+      "name": "MoMA",
+      "ats": "greenhouse",
+      "slug": "moma"
+    },
+    {
+      "name": "The Met",
+      "ats": "greenhouse",
+      "slug": "the-metropolitan-museum-of-art"
+    },
+    {
+      "name": "Brooklyn Museum",
+      "ats": "greenhouse",
+      "slug": "brooklyn-museum"
+    },
+    {
+      "name": "Smithsonian Institution",
+      "ats": "custom",
+      "careers_url": "https://www.usajobs.gov/Search/Results?d=SM"
+    },
+    {
+      "name": "Lincoln Center",
+      "ats": "greenhouse",
+      "slug": "lincoln-center-for-the-performing-arts"
+    },
+    {
+      "name": "Whitney Museum",
+      "ats": "greenhouse",
+      "slug": "whitney-museum-of-american-art"
+    },
+    {
+      "name": "New Museum",
+      "ats": "greenhouse",
+      "slug": "new-museum"
+    },
+    {
+      "name": "Creative Capital",
+      "ats": "greenhouse",
+      "slug": "creative-capital"
+    },
+    {
+      "name": "Guggenheim Museum",
+      "ats": "greenhouse",
+      "slug": "solomon-r-guggenheim-foundation"
+    },
+    {
+      "name": "American Museum of Natural History",
+      "ats": "greenhouse",
+      "slug": "amnh"
+    },
+    {
+      "name": "New York Public Library",
+      "ats": "greenhouse",
+      "slug": "new-york-public-library"
+    },
+    {
+      "name": "Brooklyn Public Library",
+      "ats": "greenhouse",
+      "slug": "brooklyn-public-library"
+    },
+    {
+      "name": "Queens Public Library",
+      "ats": "greenhouse",
+      "slug": "queens-public-library"
+    },
+    {
+      "name": "New York Philharmonic",
+      "ats": "greenhouse",
+      "slug": "new-york-philharmonic"
+    },
+    {
+      "name": "Metropolitan Opera",
+      "ats": "greenhouse",
+      "slug": "metropolitan-opera"
+    },
+    {
+      "name": "Carnegie Hall",
+      "ats": "greenhouse",
+      "slug": "carnegie-hall"
+    },
+    {
+      "name": "BAM (Brooklyn Academy of Music)",
+      "ats": "greenhouse",
+      "slug": "bam"
+    },
+    {
+      "name": "Studio Museum in Harlem",
+      "ats": "greenhouse",
+      "slug": "studio-museum"
+    },
+    {
+      "name": "Museum of the City of New York",
+      "ats": "greenhouse",
+      "slug": "museum-of-the-city-of-new-york"
+    },
+    {
+      "name": "El Museo del Barrio",
+      "ats": "greenhouse",
+      "slug": "el-museo-del-barrio"
+    },
+    {
+      "name": "Schomburg Center",
+      "ats": "greenhouse",
+      "slug": "new-york-public-library"
+    },
+    {
+      "name": "Apollo Theater",
+      "ats": "greenhouse",
+      "slug": "apollo-theater"
+    },
+    {
+      "name": "Alvin Ailey Dance Foundation",
+      "ats": "greenhouse",
+      "slug": "alvin-ailey"
+    },
+    {
+      "name": "Joyce Theater",
+      "ats": "custom",
+      "careers_url": "https://www.joyce.org/about/employment"
+    },
+    {
+      "name": "The Public Theater",
+      "ats": "greenhouse",
+      "slug": "the-public-theater"
+    },
+    {
+      "name": "Roundabout Theatre Company",
+      "ats": "greenhouse",
+      "slug": "roundabout-theatre-company"
+    },
+    {
+      "name": "Second Stage Theater",
+      "ats": "greenhouse",
+      "slug": "second-stage-theater"
+    },
+    {
+      "name": "LACMA",
+      "ats": "greenhouse",
+      "slug": "lacma"
+    },
+    {
+      "name": "Getty Museum",
+      "ats": "greenhouse",
+      "slug": "j-paul-getty-trust"
+    },
+    {
+      "name": "Hammer Museum",
+      "ats": "greenhouse",
+      "slug": "hammer-museum"
+    },
+    {
+      "name": "MOCA Los Angeles",
+      "ats": "greenhouse",
+      "slug": "moca"
+    },
+    {
+      "name": "Broad Museum",
+      "ats": "greenhouse",
+      "slug": "the-broad"
+    },
+    {
+      "name": "LA Philharmonic",
+      "ats": "greenhouse",
+      "slug": "la-philharmonic"
+    },
+    {
+      "name": "Mark Taper Forum / Center Theatre Group",
+      "ats": "greenhouse",
+      "slug": "center-theatre-group"
+    },
+    {
+      "name": "SFMOMA",
+      "ats": "greenhouse",
+      "slug": "sfmoma"
+    },
+    {
+      "name": "San Francisco Symphony",
+      "ats": "greenhouse",
+      "slug": "san-francisco-symphony"
+    },
+    {
+      "name": "San Francisco Ballet",
+      "ats": "greenhouse",
+      "slug": "san-francisco-ballet"
+    },
+    {
+      "name": "Oakland Museum of California",
+      "ats": "greenhouse",
+      "slug": "oakland-museum-of-california"
+    },
+    {
+      "name": "de Young Museum",
+      "ats": "greenhouse",
+      "slug": "fine-arts-museums-of-san-francisco"
+    },
+    {
+      "name": "Library of Congress",
+      "ats": "custom",
+      "careers_url": "https://www.loc.gov/hr/employment"
+    },
+    {
+      "name": "Internet Archive",
+      "ats": "greenhouse",
+      "slug": "internet-archive"
+    },
+    {
+      "name": "National Archives",
+      "ats": "custom",
+      "careers_url": "https://www.usajobs.gov/Search/Results?d=AR"
+    },
+    {
+      "name": "Smithsonian National Museum of African Art",
+      "ats": "custom",
+      "careers_url": "https://africa.si.edu/about/employment.html"
+    },
+    {
+      "name": "National Museum of African American History and Culture",
+      "ats": "custom",
+      "careers_url": "https://nmaahc.si.edu/about/employment"
+    },
+    {
+      "name": "Museum of Arts and Design",
+      "ats": "greenhouse",
+      "slug": "museum-of-arts-and-design"
+    },
+    {
+      "name": "Tenement Museum",
+      "ats": "greenhouse",
+      "slug": "tenement-museum"
+    },
+    {
+      "name": "National Jazz Museum in Harlem",
+      "ats": "custom",
+      "careers_url": "https://jazzmuseuminharlem.org"
+    },
+    {
+      "name": "Blick Art Materials",
+      "ats": "greenhouse",
+      "slug": "dick-blick"
+    },
+    {
+      "name": "Crayola",
+      "ats": "workday",
+      "workday_url": "https://crayola.wd1.myworkdayjobs.com/wday/cxs/CrayolaCareers"
+    },
+    {
+      "name": "Faber-Castell USA",
+      "ats": "custom",
+      "careers_url": "https://www.fabercastell.com/about-faber-castell/jobs"
+    },
+    {
+      "name": "ACCO Brands",
+      "ats": "workday",
+      "workday_url": "https://acco.wd1.myworkdayjobs.com/wday/cxs/AccoBrands"
+    },
+    {
+      "name": "Pentel of America",
+      "ats": "custom",
+      "careers_url": "https://www.pentel.com/pages/careers"
+    },
+    {
+      "name": "Sakura of America",
+      "ats": "custom",
+      "careers_url": "https://www.sakuraofamerica.com/careers"
+    },
+    {
+      "name": "Golden Artist Colors",
+      "ats": "custom",
+      "careers_url": "https://goldenpaints.bamboohr.com/jobs"
+    },
+    {
+      "name": "Liquitex / Lefranc",
+      "ats": "custom",
+      "careers_url": "https://www.liquitex.com/us/about/careers"
+    },
+    {
+      "name": "Michaels Stores",
+      "ats": "workday",
+      "workday_url": "https://michaels.wd5.myworkdayjobs.com/wday/cxs/External/Michaels"
+    },
+    {
+      "name": "Hobby Lobby (Corporate)",
+      "ats": "custom",
+      "careers_url": "https://careers.hobbylobby.com"
+    },
+    {
+      "name": "Utrecht Art Supplies",
+      "ats": "custom",
+      "careers_url": "https://www.utrecht.com/about-us/careers"
+    },
+    {
+      "name": "Canson (Canson Inc)",
+      "ats": "custom",
+      "careers_url": "https://www.canson.com/en/about-us/employment"
+    },
+    {
+      "name": "Strathmore Artist Papers",
+      "ats": "custom",
+      "careers_url": "https://www.strathmoreartist.com/about/careers.html"
+    },
+    {
+      "name": "Yasutomo & Co",
+      "ats": "custom",
+      "careers_url": "https://www.yasutomo.com/about/careers"
+    },
+    {
+      "name": "Speedball Art Products",
+      "ats": "custom",
+      "careers_url": "https://www.speedballart.com/about/careers"
+    },
+    {
+      "name": "Chartpak",
+      "ats": "custom",
+      "careers_url": "https://www.chartpak.com/careers"
+    },
+    {
+      "name": "Prismacolor / Sanford",
+      "ats": "workday",
+      "workday_url": "https://newell.wd5.myworkdayjobs.com/wday/cxs/NWL_External_Career_Site"
+    },
+    {
+      "name": "Newell Brands (Sharpie, Expo, etc)",
+      "ats": "workday",
+      "workday_url": "https://newell.wd5.myworkdayjobs.com/wday/cxs/NWL_External_Career_Site"
+    },
+    {
+      "name": "Moleskine",
+      "ats": "greenhouse",
+      "slug": "moleskine"
+    },
+    {
+      "name": "Leuchtturm1917",
+      "ats": "custom",
+      "careers_url": "https://www.leuchtturm1917.com/en/jobs.html"
+    },
+    {
+      "name": "Wacom",
+      "ats": "greenhouse",
+      "slug": "wacom"
+    },
+    {
+      "name": "Mattel",
+      "ats": "workday",
+      "workday_url": "https://mattel.wd5.myworkdayjobs.com/wday/cxs/MattelExternal"
+    },
+    {
+      "name": "Hasbro",
+      "ats": "workday",
+      "workday_url": "https://hasbro.wd1.myworkdayjobs.com/wday/cxs/HasbroExternal"
+    },
+    {
+      "name": "LEGO Group",
+      "ats": "workday",
+      "workday_url": "https://lego.wd3.myworkdayjobs.com/wday/cxs/LEGO_External"
+    },
+    {
+      "name": "Spin Master",
+      "ats": "workday",
+      "workday_url": "https://spinmaster.wd3.myworkdayjobs.com/wday/cxs/SpinMaster"
+    },
+    {
+      "name": "Funko",
+      "ats": "greenhouse",
+      "slug": "funko"
+    },
+    {
+      "name": "PlayMonster",
+      "ats": "custom",
+      "careers_url": "https://playmonster.bamboohr.com/jobs"
+    },
+    {
+      "name": "Ravensburger",
+      "ats": "custom",
+      "careers_url": "https://www.ravensburger.com/us/company/careers"
+    },
+    {
+      "name": "KiwiCo",
+      "ats": "greenhouse",
+      "slug": "kiwico"
+    },
+    {
+      "name": "Melissa & Doug",
+      "ats": "greenhouse",
+      "slug": "melissa-and-doug"
+    },
+    {
+      "name": "Learning Tree International",
+      "ats": "custom",
+      "careers_url": "https://www.learningtree.com/careers"
+    },
+    {
+      "name": "National Geographic Learning (Cengage)",
+      "ats": "workday",
+      "workday_url": "https://cengage.wd1.myworkdayjobs.com/wday/cxs/CengageExternal"
+    },
+    {
+      "name": "Leapfrog Enterprises",
+      "ats": "custom",
+      "careers_url": "https://www.leapfrog.com/en-us/company/careers"
+    },
+    {
+      "name": "American Girl",
+      "ats": "workday",
+      "workday_url": "https://mattel.wd5.myworkdayjobs.com/wday/cxs/MattelExternal"
+    },
+    {
+      "name": "Fat Brain Toys",
+      "ats": "custom",
+      "careers_url": "https://www.fatbraintoys.com/about/employment.cfm"
+    },
+    {
+      "name": "Exploding Kittens",
+      "ats": "greenhouse",
+      "slug": "exploding-kittens"
+    },
+    {
+      "name": "Cards Against Humanity",
+      "ats": "custom",
+      "careers_url": "https://www.cardsagainsthumanity.com/jobs"
+    },
+    {
+      "name": "Asmodee North America",
+      "ats": "greenhouse",
+      "slug": "asmodee-north-america"
+    },
+    {
+      "name": "Jakks Pacific",
+      "ats": "greenhouse",
+      "slug": "jakks-pacific"
+    },
+    {
+      "name": "Basic Fun!",
+      "ats": "custom",
+      "careers_url": "https://www.basicfun.com/careers"
+    },
+    {
+      "name": "Playmobil USA",
+      "ats": "custom",
+      "careers_url": "https://www.playmobil.com/en-us/jobs"
+    },
+    {
+      "name": "Folkmanis Puppets",
+      "ats": "custom",
+      "careers_url": "https://www.folkmanis.com/employment"
+    },
+    {
+      "name": "Riot Games",
+      "ats": "greenhouse",
+      "slug": "riot-games"
+    },
+    {
+      "name": "Epic Games",
+      "ats": "greenhouse",
+      "slug": "epic-games"
+    },
+    {
+      "name": "Activision Blizzard",
+      "ats": "workday",
+      "workday_url": "https://activision.wd1.myworkdayjobs.com/wday/cxs/Activision/External"
+    },
+    {
+      "name": "EA (Electronic Arts)",
+      "ats": "greenhouse",
+      "slug": "electronic-arts"
+    },
+    {
+      "name": "2K Games",
+      "ats": "lever",
+      "slug": "2k-games"
+    },
+    {
+      "name": "Zynga",
+      "ats": "greenhouse",
+      "slug": "zynga"
+    },
+    {
+      "name": "Niantic",
+      "ats": "greenhouse",
+      "slug": "niantic"
+    },
+    {
+      "name": "Scopely",
+      "ats": "greenhouse",
+      "slug": "scopely"
+    },
+    {
+      "name": "Jam City",
+      "ats": "greenhouse",
+      "slug": "jam-city"
+    },
+    {
+      "name": "Kabam",
+      "ats": "greenhouse",
+      "slug": "kabam"
+    },
+    {
+      "name": "Glu Mobile (EA)",
+      "ats": "greenhouse",
+      "slug": "electronic-arts"
+    },
+    {
+      "name": "nWay",
+      "ats": "greenhouse",
+      "slug": "nway"
+    },
+    {
+      "name": "Double Down Interactive",
+      "ats": "greenhouse",
+      "slug": "doubledown-interactive"
+    },
+    {
+      "name": "ESA (Entertainment Software Association)",
+      "ats": "custom",
+      "careers_url": "https://www.theesa.com/careers"
+    },
+    {
+      "name": "PlayStation (Sony Interactive Entertainment)",
+      "ats": "workday",
+      "workday_url": "https://sonyinteractive.wd1.myworkdayjobs.com/wday/cxs/SIE_External"
+    },
+    {
+      "name": "Xbox (Microsoft Gaming)",
+      "ats": "custom",
+      "careers_url": "https://careers.microsoft.com/gaming"
+    },
+    {
+      "name": "Roblox",
+      "ats": "greenhouse",
+      "slug": "roblox"
+    },
+    {
+      "name": "Unity Technologies",
+      "ats": "lever",
+      "slug": "unity-technologies"
+    },
+    {
+      "name": "Twitch",
+      "ats": "greenhouse",
+      "slug": "twitch"
+    },
+    {
+      "name": "Discord",
+      "ats": "greenhouse",
+      "slug": "discord"
+    },
+    {
+      "name": "Backbone",
+      "ats": "greenhouse",
+      "slug": "backbone"
+    },
+    {
+      "name": "Duolingo",
+      "ats": "greenhouse",
+      "slug": "duolingo"
+    },
+    {
+      "name": "Lumiere Education",
+      "ats": "lever",
+      "slug": "lumiere-education"
+    },
+    {
+      "name": "Coursera",
+      "ats": "greenhouse",
+      "slug": "coursera"
+    },
+    {
+      "name": "Khan Academy",
+      "ats": "greenhouse",
+      "slug": "khan-academy"
+    },
+    {
+      "name": "Chegg",
+      "ats": "greenhouse",
+      "slug": "chegg"
+    },
+    {
+      "name": "2U / edX",
+      "ats": "greenhouse",
+      "slug": "2u"
+    },
+    {
+      "name": "Newsela",
+      "ats": "greenhouse",
+      "slug": "newsela"
+    },
+    {
+      "name": "Understood",
+      "ats": "greenhouse",
+      "slug": "understood-org"
+    },
+    {
+      "name": "Outschool",
+      "ats": "greenhouse",
+      "slug": "outschool"
+    },
+    {
+      "name": "Age of Learning",
+      "ats": "greenhouse",
+      "slug": "age-of-learning"
+    },
+    {
+      "name": "Renaissance Learning",
+      "ats": "workday",
+      "workday_url": "https://renaissance.wd5.myworkdayjobs.com/wday/cxs/Renaissance"
+    },
+    {
+      "name": "Curriculum Associates",
+      "ats": "greenhouse",
+      "slug": "curriculum-associates"
+    },
+    {
+      "name": "EF Education First",
+      "ats": "greenhouse",
+      "slug": "ef-education-first"
+    },
+    {
+      "name": "Rosetta Stone",
+      "ats": "workday",
+      "workday_url": "https://rosettastone.wd5.myworkdayjobs.com/wday/cxs/RosettaStone"
+    },
+    {
+      "name": "Babbel",
+      "ats": "greenhouse",
+      "slug": "babbel"
+    },
+    {
+      "name": "Pimsleur (Simon & Schuster)",
+      "ats": "workday",
+      "workday_url": "https://simonandschuster.wd5.myworkdayjobs.com/wday/cxs/SimonandSchuster"
+    },
+    {
+      "name": "Varsity Tutors",
+      "ats": "greenhouse",
+      "slug": "varsity-tutors"
+    },
+    {
+      "name": "Kaplan",
+      "ats": "workday",
+      "workday_url": "https://kaplan.wd1.myworkdayjobs.com/wday/cxs/KaplanCareers"
+    },
+    {
+      "name": "Princeton Review",
+      "ats": "greenhouse",
+      "slug": "the-princeton-review"
+    },
+    {
+      "name": "Noodle",
+      "ats": "greenhouse",
+      "slug": "noodle-partners"
+    },
+    {
+      "name": "Guild Education",
+      "ats": "greenhouse",
+      "slug": "guild-education"
+    },
+    {
+      "name": "InStride",
+      "ats": "greenhouse",
+      "slug": "instride"
+    },
+    {
+      "name": "National Trust for Historic Preservation",
+      "ats": "greenhouse",
+      "slug": "national-trust-for-historic-preservation"
+    },
+    {
+      "name": "Preservation League of NYS",
+      "ats": "custom",
+      "careers_url": "https://www.preservenys.org/careers"
+    },
+    {
+      "name": "New York Landmarks Conservancy",
+      "ats": "custom",
+      "careers_url": "https://www.nylandmarks.org/about-us/employment"
+    },
+    {
+      "name": "New-York Historical Society",
+      "ats": "greenhouse",
+      "slug": "new-york-historical-society"
+    },
+    {
+      "name": "Museum of American History (Smithsonian)",
+      "ats": "custom",
+      "careers_url": "https://americanhistory.si.edu/about/employment"
+    },
+    {
+      "name": "Gilder Lehrman Institute",
+      "ats": "greenhouse",
+      "slug": "gilder-lehrman-institute"
+    },
+    {
+      "name": "African American Museum in Philadelphia",
+      "ats": "greenhouse",
+      "slug": "african-american-museum-in-philadelphia"
+    },
+    {
+      "name": "National Park Foundation",
+      "ats": "greenhouse",
+      "slug": "national-park-foundation"
+    },
+    {
+      "name": "American Historical Association",
+      "ats": "custom",
+      "careers_url": "https://www.historians.org/jobs-and-professional-development/employment"
+    },
+    {
+      "name": "Organization of American Historians",
+      "ats": "custom",
+      "careers_url": "https://www.oah.org/about/staff-opportunities"
+    },
+    {
+      "name": "Oral History Association",
+      "ats": "custom",
+      "careers_url": "https://oralhistory.org/careers"
+    },
+    {
+      "name": "California Historical Society",
+      "ats": "custom",
+      "careers_url": "https://californiahistoricalsociety.org/about-us/employment"
+    },
+    {
+      "name": "African Heritage Project",
+      "ats": "custom",
+      "careers_url": "https://africanheritageproject.org/careers"
+    },
+    {
+      "name": "JPMorgan Chase (Corporate & Foundation)",
+      "ats": "workday",
+      "workday_url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX"
+    },
+    {
+      "name": "Goldman Sachs",
+      "ats": "custom",
+      "careers_url": "https://higher.gs.com/roles"
+    },
+    {
+      "name": "Morgan Stanley",
+      "ats": "workday",
+      "workday_url": "https://morganstanley.wd5.myworkdayjobs.com/wday/cxs/MS_External_Career_Site"
+    },
+    {
+      "name": "Citi",
+      "ats": "workday",
+      "workday_url": "https://jobs.citi.com/cxs/citi/CitiCareers"
+    },
+    {
+      "name": "BNP Paribas",
+      "ats": "workday",
+      "workday_url": "https://bnpparibas.wd3.myworkdayjobs.com/wday/cxs/BNP_Careers"
+    },
+    {
+      "name": "Deutsche Bank",
+      "ats": "workday",
+      "workday_url": "https://db.wd3.myworkdayjobs.com/wday/cxs/DB_External_Career_Site"
+    },
+    {
+      "name": "ING",
+      "ats": "greenhouse",
+      "slug": "ing"
+    },
+    {
+      "name": "Amalgamated Bank",
+      "ats": "greenhouse",
+      "slug": "amalgamated-bank"
+    },
+    {
+      "name": "Community Reinvestment Fund USA",
+      "ats": "custom",
+      "careers_url": "https://www.crfusa.com/about/careers"
+    },
+    {
+      "name": "Beneficial State Bank",
+      "ats": "greenhouse",
+      "slug": "beneficial-state-bank"
+    },
+    {
+      "name": "New Resource Bank (acquired by Amalgamated)",
+      "ats": "greenhouse",
+      "slug": "amalgamated-bank"
+    },
+    {
+      "name": "Calvert Research and Management",
+      "ats": "workday",
+      "workday_url": "https://eaton.wd5.myworkdayjobs.com/wday/cxs/EatonCareers"
+    },
+    {
+      "name": "Citi Community Development",
+      "ats": "workday",
+      "workday_url": "https://jobs.citi.com/cxs/citi/CitiCareers"
+    },
+    {
+      "name": "Standard Bank Group (Africa)",
+      "ats": "custom",
+      "careers_url": "https://www.standardbank.com/sbg/standard-bank-group/careers"
+    },
+    {
+      "name": "Ecobank Transnational",
+      "ats": "custom",
+      "careers_url": "https://www.ecobank.com/careers"
+    },
+    {
+      "name": "Access Bank",
+      "ats": "custom",
+      "careers_url": "https://www.accessbankplc.com/careers"
+    },
+    {
+      "name": "Fidelity Bank Ghana",
+      "ats": "custom",
+      "careers_url": "https://www.fidelitybank.com.gh/careers"
+    },
+    {
+      "name": "First Bank of Nigeria",
+      "ats": "custom",
+      "careers_url": "https://www.firstbanknigeria.com/careers"
+    },
+    {
+      "name": "Ericsson",
+      "ats": "workday",
+      "workday_url": "https://ericsson.wd1.myworkdayjobs.com/wday/cxs/Ericsson/Jobs"
+    },
+    {
+      "name": "IKEA (Ingka Group)",
+      "ats": "workday",
+      "workday_url": "https://ingka.wd3.myworkdayjobs.com/wday/cxs/IKEA"
+    },
+    {
+      "name": "Volvo Group",
+      "ats": "workday",
+      "workday_url": "https://jobs.volvogroup.com/cxs/VolvoCareers"
+    },
+    {
+      "name": "Siemens",
+      "ats": "workday",
+      "workday_url": "https://siemens.wd3.myworkdayjobs.com/wday/cxs/Careers"
+    },
+    {
+      "name": "Philips",
+      "ats": "workday",
+      "workday_url": "https://philips.wd3.myworkdayjobs.com/wday/cxs/Philips/jobs"
+    },
+    {
+      "name": "SAP",
+      "ats": "workday",
+      "workday_url": "https://sap.wd3.myworkdayjobs.com/wday/cxs/SAP"
+    },
+    {
+      "name": "Novo Nordisk",
+      "ats": "workday",
+      "workday_url": "https://novonordisk.wd3.myworkdayjobs.com/wday/cxs/Novo_Nordisk/Careers_Global"
+    },
+    {
+      "name": "Unilever",
+      "ats": "workday",
+      "workday_url": "https://careers.unilever.com/cxs/Unilever"
+    },
+    {
+      "name": "LVMH",
+      "ats": "greenhouse",
+      "slug": "lvmh"
+    },
+    {
+      "name": "Publicis Groupe",
+      "ats": "workday",
+      "workday_url": "https://publicis.wd3.myworkdayjobs.com/wday/cxs/Publicis"
+    },
+    {
+      "name": "ABB",
+      "ats": "workday",
+      "workday_url": "https://abb.wd3.myworkdayjobs.com/wday/cxs/ABBExternalCareers"
+    },
+    {
+      "name": "H&M Group",
+      "ats": "workday",
+      "workday_url": "https://career.hm.com"
+    },
+    {
+      "name": "Nestle",
+      "ats": "workday",
+      "workday_url": "https://nestle.wd3.myworkdayjobs.com/wday/cxs/Nestle"
+    },
+    {
+      "name": "Reckitt",
+      "ats": "workday",
+      "workday_url": "https://reckitt.wd3.myworkdayjobs.com/wday/cxs/Reckitt_External"
+    },
+    {
+      "name": "AstraZeneca",
+      "ats": "workday",
+      "workday_url": "https://astrazeneca.wd3.myworkdayjobs.com/wday/cxs/Careers"
+    },
+    {
+      "name": "Danone",
+      "ats": "workday",
+      "workday_url": "https://danone.wd3.myworkdayjobs.com/wday/cxs/danone_ext"
+    },
+    {
+      "name": "L'Oreal",
+      "ats": "workday",
+      "workday_url": "https://loreal.wd3.myworkdayjobs.com/wday/cxs/L_Oreal"
+    },
+    {
+      "name": "Sanofi",
+      "ats": "workday",
+      "workday_url": "https://sanofi.wd3.myworkdayjobs.com/wday/cxs/SanofiCareers"
+    },
+    {
+      "name": "Total Energies",
+      "ats": "workday",
+      "workday_url": "https://totalenergies.wd3.myworkdayjobs.com/wday/cxs/TotalEnergiesCareers"
+    },
+    {
+      "name": "Sodexo",
+      "ats": "workday",
+      "workday_url": "https://sodexo.wd3.myworkdayjobs.com/wday/cxs/SodexoCareers"
+    },
+    {
+      "name": "Capgemini",
+      "ats": "workday",
+      "workday_url": "https://capgemini.wd3.myworkdayjobs.com/wday/cxs/Capgemini"
+    },
+    {
+      "name": "Airbus",
+      "ats": "workday",
+      "workday_url": "https://ag.wd3.myworkdayjobs.com/wday/cxs/Airbus"
+    },
+    {
+      "name": "Embraer (Brazil)",
+      "ats": "workday",
+      "workday_url": "https://embraer.wd5.myworkdayjobs.com/wday/cxs/Embraer"
+    },
+    {
+      "name": "Natura & Co (Brazil)",
+      "ats": "workday",
+      "workday_url": "https://naturaeco.wd5.myworkdayjobs.com/wday/cxs/NaturaEco"
+    },
+    {
+      "name": "Africa Finance Corporation",
+      "ats": "custom",
+      "careers_url": "https://www.africafc.org/careers"
+    },
+    {
+      "name": "Afreximbank",
+      "ats": "custom",
+      "careers_url": "https://www.afreximbank.com/careers"
+    },
+    {
+      "name": "TechCabal / BigCabal Media",
+      "ats": "greenhouse",
+      "slug": "bigcabal-media"
+    },
+    {
+      "name": "Andela",
+      "ats": "greenhouse",
+      "slug": "andela"
+    },
+    {
+      "name": "Flutterwave",
+      "ats": "greenhouse",
+      "slug": "flutterwave"
+    },
+    {
+      "name": "Chipper Cash",
+      "ats": "greenhouse",
+      "slug": "chipper-cash"
+    },
+    {
+      "name": "Wave Mobile Money",
+      "ats": "greenhouse",
+      "slug": "wave-mobile-money"
+    },
+    {
+      "name": "M-KOPA",
+      "ats": "greenhouse",
+      "slug": "m-kopa"
+    },
+    {
+      "name": "d.light",
+      "ats": "greenhouse",
+      "slug": "dlight"
+    },
+    {
+      "name": "Africa Internet Group / Jumia",
+      "ats": "greenhouse",
+      "slug": "jumia"
+    },
+    {
+      "name": "Interswitch Group",
+      "ats": "custom",
+      "careers_url": "https://www.interswitchgroup.com/careers"
+    },
+    {
+      "name": "Cellulant",
+      "ats": "lever",
+      "slug": "cellulant"
+    },
+    {
+      "name": "Kopo Kopo",
+      "ats": "custom",
+      "careers_url": "https://kopokopo.co.ke/careers"
+    },
+    {
+      "name": "African Leadership University",
+      "ats": "greenhouse",
+      "slug": "african-leadership-university"
+    },
+    {
+      "name": "African Leadership Academy",
+      "ats": "greenhouse",
+      "slug": "african-leadership-academy"
+    },
+    {
+      "name": "Africa CDC",
+      "ats": "custom",
+      "careers_url": "https://africacdc.org/careers"
+    },
+    {
+      "name": "Ushahidi",
+      "ats": "lever",
+      "slug": "ushahidi"
+    },
+    {
+      "name": "GeoPoll",
+      "ats": "greenhouse",
+      "slug": "geopoll"
+    },
+    {
+      "name": "Samasource / Sama",
+      "ats": "greenhouse",
+      "slug": "sama"
+    },
+    {
+      "name": "Educate! Africa",
+      "ats": "greenhouse",
+      "slug": "educate"
+    },
+    {
+      "name": "Population Council",
+      "ats": "greenhouse",
+      "slug": "population-council"
+    },
+    {
+      "name": "African Union Development Agency (AUDA-NEPAD)",
+      "ats": "custom",
+      "careers_url": "https://www.nepad.org/careers"
+    },
+    {
+      "name": "Resolute Forest Products (Africa ops)",
+      "ats": "workday",
+      "workday_url": "https://resolute.wd5.myworkdayjobs.com/wday/cxs/Resolute"
+    },
+    {
+      "name": "Dangote Group",
+      "ats": "custom",
+      "careers_url": "https://www.dangote.com/careers"
+    },
+    {
+      "name": "Safaricom",
+      "ats": "workday",
+      "workday_url": "https://safaricom.wd3.myworkdayjobs.com/wday/cxs/Safaricom"
+    },
+    {
+      "name": "Ethiopian Airlines",
+      "ats": "custom",
+      "careers_url": "https://www.ethiopianairlines.com/aa/careers"
+    },
+    {
+      "name": "Kenya Airways",
+      "ats": "custom",
+      "careers_url": "https://www.kenya-airways.com/careers"
+    },
+    {
+      "name": "Africa No Filter",
+      "ats": "custom",
+      "careers_url": "https://africanofilter.org/jobs"
+    },
+    {
+      "name": "McKinsey & Company",
+      "ats": "custom",
+      "careers_url": "https://www.mckinsey.com/careers"
+    },
+    {
+      "name": "BCG",
+      "ats": "workday",
+      "workday_url": "https://bcg.wd3.myworkdayjobs.com/BCG_Careers"
+    },
+    {
+      "name": "Bain & Company",
+      "ats": "workday",
+      "workday_url": "https://bain.wd1.myworkdayjobs.com/wday/cxs/Bain"
+    },
+    {
+      "name": "Kearney",
+      "ats": "greenhouse",
+      "slug": "kearney"
+    },
+    {
+      "name": "Oliver Wyman",
+      "ats": "workday",
+      "workday_url": "https://oliverwyman.wd5.myworkdayjobs.com/wday/cxs/OliverWyman"
+    },
+    {
+      "name": "Deloitte",
+      "ats": "workday",
+      "workday_url": "https://deloitte.wd1.myworkdayjobs.com/wday/cxs/DTUSACareers"
+    },
+    {
+      "name": "Accenture",
+      "ats": "workday",
+      "workday_url": "https://accenture.wd3.myworkdayjobs.com/wday/cxs/AccentureCareers"
+    },
+    {
+      "name": "PwC",
+      "ats": "workday",
+      "workday_url": "https://pwc.wd3.myworkdayjobs.com/wday/cxs/Global_Campus_Careers"
+    },
+    {
+      "name": "EY",
+      "ats": "workday",
+      "workday_url": "https://ey.wd5.myworkdayjobs.com/wday/cxs/EY-Global"
+    },
+    {
+      "name": "KPMG",
+      "ats": "workday",
+      "workday_url": "https://kpmg.wd1.myworkdayjobs.com/wday/cxs/kpmg_external"
+    },
+    {
+      "name": "Monitor Deloitte",
+      "ats": "workday",
+      "workday_url": "https://deloitte.wd1.myworkdayjobs.com/wday/cxs/DTUSACareers"
+    },
+    {
+      "name": "Booz Allen Hamilton",
+      "ats": "workday",
+      "workday_url": "https://boozallen.wd5.myworkdayjobs.com/wday/cxs/MSD_Campus"
+    },
+    {
+      "name": "ICF International",
+      "ats": "workday",
+      "workday_url": "https://icf.wd5.myworkdayjobs.com/wday/cxs/ICFExternal"
+    },
+    {
+      "name": "Dalberg Advisors",
+      "ats": "greenhouse",
+      "slug": "dalberg"
+    },
+    {
+      "name": "Tetra Tech",
+      "ats": "workday",
+      "workday_url": "https://tetratechinc.wd5.myworkdayjobs.com/wday/cxs/TetraTech"
+    },
+    {
+      "name": "Google",
+      "ats": "custom",
+      "careers_url": "https://careers.google.com"
+    },
+    {
+      "name": "Anthropic",
+      "ats": "greenhouse",
+      "slug": "anthropic"
+    },
+    {
+      "name": "OpenAI",
+      "ats": "greenhouse",
+      "slug": "openai"
+    },
+    {
+      "name": "Meta",
+      "ats": "greenhouse",
+      "slug": "meta"
+    },
+    {
+      "name": "Microsoft",
+      "ats": "custom",
+      "careers_url": "https://careers.microsoft.com"
+    },
+    {
+      "name": "Wikimedia Foundation",
+      "ats": "greenhouse",
+      "slug": "wikimedia-foundation"
+    },
+    {
+      "name": "Mozilla",
+      "ats": "greenhouse",
+      "slug": "mozilla"
+    },
+    {
+      "name": "Cloudflare",
+      "ats": "greenhouse",
+      "slug": "cloudflare"
+    },
+    {
+      "name": "Salesforce",
+      "ats": "workday",
+      "workday_url": "https://salesforce.wd12.myworkdayjobs.com/wday/cxs/Salesforce"
+    },
+    {
+      "name": "LinkedIn",
+      "ats": "custom",
+      "careers_url": "https://careers.linkedin.com"
+    },
+    {
+      "name": "Slack / Salesforce",
+      "ats": "workday",
+      "workday_url": "https://salesforce.wd12.myworkdayjobs.com/wday/cxs/Salesforce"
+    },
+    {
+      "name": "Twilio",
+      "ats": "lever",
+      "slug": "twilio"
+    },
+    {
+      "name": "Palantir",
+      "ats": "lever",
+      "slug": "palantir"
+    },
+    {
+      "name": "Stripe",
+      "ats": "greenhouse",
+      "slug": "stripe"
+    },
+    {
+      "name": "Airbnb",
+      "ats": "greenhouse",
+      "slug": "airbnb"
+    },
+    {
+      "name": "Uber",
+      "ats": "greenhouse",
+      "slug": "uber"
+    },
+    {
+      "name": "Lyft",
+      "ats": "greenhouse",
+      "slug": "lyft"
+    },
+    {
+      "name": "DoorDash",
+      "ats": "greenhouse",
+      "slug": "doordash"
+    },
+    {
+      "name": "Instacart",
+      "ats": "greenhouse",
+      "slug": "instacart"
+    },
+    {
+      "name": "Square / Block",
+      "ats": "greenhouse",
+      "slug": "block-inc"
+    },
+    {
+      "name": "Pinterest",
+      "ats": "greenhouse",
+      "slug": "pinterest"
+    },
+    {
+      "name": "Snap Inc",
+      "ats": "greenhouse",
+      "slug": "snap"
+    },
+    {
+      "name": "Code for America",
+      "ats": "lever",
+      "slug": "code-for-america"
+    },
+    {
+      "name": "Democracy Works",
+      "ats": "lever",
+      "slug": "democracy-works"
+    },
+    {
+      "name": "Global Integrity",
+      "ats": "custom",
+      "careers_url": "https://www.globalintegrity.org/jobs"
+    },
+    {
+      "name": "mySociety",
+      "ats": "custom",
+      "careers_url": "https://www.mysociety.org/jobs"
+    },
+    {
+      "name": "Nesta (UK)",
+      "ats": "greenhouse",
+      "slug": "nesta"
+    },
+    {
+      "name": "Luminary Media",
+      "ats": "greenhouse",
+      "slug": "luminary-media"
+    },
+    {
+      "name": "Civilla",
+      "ats": "custom",
+      "careers_url": "https://civilla.org/careers"
+    },
+    {
+      "name": "Beeck Center (Georgetown)",
+      "ats": "custom",
+      "careers_url": "https://beeckcenter.georgetown.edu/join-us"
+    },
+    {
+      "name": "GovLab (NYU)",
+      "ats": "custom",
+      "careers_url": "https://thegovlab.org/opportunities"
+    },
+    {
+      "name": "Shorenstein Center (Harvard)",
+      "ats": "custom",
+      "careers_url": "https://shorensteincenter.org/about/jobs"
+    },
+    {
+      "name": "Columbia World Projects",
+      "ats": "greenhouse",
+      "slug": "columbia-world-projects"
+    },
+    {
+      "name": "Aspen Institute",
+      "ats": "greenhouse",
+      "slug": "aspen-institute"
+    },
+    {
+      "name": "Rockefeller Brothers Fund",
+      "ats": "greenhouse",
+      "slug": "rockefeller-brothers-fund"
+    },
+    {
+      "name": "Surdna Foundation",
+      "ats": "greenhouse",
+      "slug": "surdna-foundation"
+    },
+    {
+      "name": "Nathan Cummings Foundation",
+      "ats": "greenhouse",
+      "slug": "nathan-cummings-foundation"
+    },
+    {
+      "name": "Unbound Philanthropy",
+      "ats": "custom",
+      "careers_url": "https://www.unboundphilanthropy.org/jobs"
+    },
+    {
+      "name": "Global Fund for Women",
+      "ats": "greenhouse",
+      "slug": "global-fund-for-women"
+    },
+    {
+      "name": "Women's World Banking",
+      "ats": "greenhouse",
+      "slug": "womens-world-banking"
+    },
+    {
+      "name": "CARE USA",
+      "ats": "workday",
+      "workday_url": "https://care.wd5.myworkdayjobs.com/wday/cxs/CARE"
+    },
+    {
+      "name": "World Resources Institute",
+      "ats": "greenhouse",
+      "slug": "world-resources-institute"
+    },
+    {
+      "name": "Environmental Defense Fund",
+      "ats": "greenhouse",
+      "slug": "environmental-defense-fund"
+    },
+    {
+      "name": "Proparco (France Dev Finance)",
+      "ats": "custom",
+      "careers_url": "https://www.proparco.fr/en/careers"
+    },
+    {
+      "name": "British International Investment",
+      "ats": "greenhouse",
+      "slug": "british-international-investment"
+    },
+    {
+      "name": "Nuveen / TIAA (Emerging Markets)",
+      "ats": "workday",
+      "workday_url": "https://tiaa.wd1.myworkdayjobs.com/wday/cxs/TIAA"
+    },
+    {
+      "name": "Root Capital",
+      "ats": "greenhouse",
+      "slug": "root-capital"
+    },
+    {
+      "name": "LeapFrog Investments",
+      "ats": "custom",
+      "careers_url": "https://leapfroginvest.com/careers"
+    },
+    {
+      "name": "Helios Investment Partners",
+      "ats": "custom",
+      "careers_url": "https://www.heliosinvestment.com/careers"
+    },
+    {
+      "name": "African Private Equity & Venture Capital Association",
+      "ats": "custom",
+      "careers_url": "https://www.avca-africa.org/membership/career-opportunities"
+    },
+    {
+      "name": "Tribeca Film Festival",
+      "ats": "greenhouse",
+      "slug": "tribeca-film-festival"
+    },
+    {
+      "name": "Film at Lincoln Center",
+      "ats": "greenhouse",
+      "slug": "film-at-lincoln-center"
+    },
+    {
+      "name": "PEN America",
+      "ats": "greenhouse",
+      "slug": "pen-america"
+    },
+    {
+      "name": "The Africa Center NYC",
+      "ats": "greenhouse",
+      "slug": "the-africa-center"
+    },
+    {
+      "name": "Schomburg Society",
+      "ats": "greenhouse",
+      "slug": "new-york-public-library"
+    },
+    {
+      "name": "Telenor Group (Norway)",
+      "ats": "workday",
+      "workday_url": "https://telenor.wd3.myworkdayjobs.com/wday/cxs/Telenor"
+    },
+    {
+      "name": "\u00d8rsted (Denmark clean energy)",
+      "ats": "workday",
+      "workday_url": "https://orsted.wd3.myworkdayjobs.com/wday/cxs/Orsted"
+    },
+    {
+      "name": "Spotify (Stockholm)",
+      "ats": "greenhouse",
+      "slug": "spotify"
+    },
+    {
+      "name": "Klarna",
+      "ats": "greenhouse",
+      "slug": "klarna"
+    },
+    {
+      "name": "King (Candy Crush / Stockholm)",
+      "ats": "greenhouse",
+      "slug": "king"
+    },
+    {
+      "name": "Mojang (Minecraft / Stockholm)",
+      "ats": "greenhouse",
+      "slug": "mojang"
+    },
+    {
+      "name": "Conrad N. Hilton Foundation",
+      "ats": "greenhouse",
+      "slug": "hilton-foundation"
+    },
+    {
+      "name": "Blue Meridian Partners",
+      "ats": "greenhouse",
+      "slug": "blue-meridian-partners"
+    },
+    {
+      "name": "Pivotal Ventures (Melinda Gates)",
+      "ats": "greenhouse",
+      "slug": "pivotal-ventures"
+    },
+    {
+      "name": "BBC Studios America",
+      "ats": "custom",
+      "careers_url": "https://careers.bbcstudios.com"
+    },
+    {
+      "name": "Penguin Random House US",
+      "ats": "greenhouse",
+      "slug": "penguin-random-house"
+    },
+    {
+      "name": "Economist Group US",
+      "ats": "greenhouse",
+      "slug": "the-economist-group"
+    },
+    {
+      "name": "Financial Times US",
+      "ats": "greenhouse",
+      "slug": "financial-times"
+    },
+    {
+      "name": "HSBC USA",
+      "ats": "workday",
+      "workday_url": "https://mycareer.hsbc.com"
+    },
+    {
+      "name": "Barclays US",
+      "ats": "workday",
+      "workday_url": "https://search.jobs.barclays"
+    },
+    {
+      "name": "Pearson US",
+      "ats": "workday",
+      "workday_url": "https://pearson.jobs"
+    },
+    {
+      "name": "Macmillan Publishers US",
+      "ats": "greenhouse",
+      "slug": "macmillan-publishers"
+    },
+    {
+      "name": "Diageo North America",
+      "ats": "workday",
+      "workday_url": "https://diageo.wd3.myworkdayjobs.com/wday/cxs/Diageo"
+    },
+    {
+      "name": "WPP (US offices)",
+      "ats": "workday",
+      "workday_url": "https://wpp.wd3.myworkdayjobs.com/wday/cxs/WPP"
+    },
+    {
+      "name": "Ogilvy US",
+      "ats": "greenhouse",
+      "slug": "ogilvy"
+    },
+    {
+      "name": "Burberry Americas",
+      "ats": "workday",
+      "workday_url": "https://burberry.wd3.myworkdayjobs.com/wday/cxs/Burberry"
+    },
+    {
+      "name": "Wellcome Leap (US)",
+      "ats": "greenhouse",
+      "slug": "wellcome-leap"
+    },
+    {
+      "name": "Arm Holdings US",
+      "ats": "workday",
+      "workday_url": "https://arm.wd1.myworkdayjobs.com/wday/cxs/Arm"
+    },
+    {
+      "name": "Hachette Book Group US",
+      "ats": "greenhouse",
+      "slug": "hachette-book-group"
+    },
+    {
+      "name": "Vivendi US (Canal+, Universal)",
+      "ats": "custom",
+      "careers_url": "https://www.vivendi.com/en/vivendi/careers"
+    },
+    {
+      "name": "Ipsos US",
+      "ats": "workday",
+      "workday_url": "https://ipsos.wd3.myworkdayjobs.com/wday/cxs/IpsosCareers"
+    },
+    {
+      "name": "Accor Hotels North America",
+      "ats": "workday",
+      "workday_url": "https://careers.accor.com"
+    },
+    {
+      "name": "Dassault Systemes US",
+      "ats": "workday",
+      "workday_url": "https://www.3ds.com/careers"
+    },
+    {
+      "name": "Bertelsmann US (BMG, PRH)",
+      "ats": "greenhouse",
+      "slug": "bertelsmann"
+    },
+    {
+      "name": "T-Mobile US (Deutsche Telekom)",
+      "ats": "workday",
+      "workday_url": "https://tmobile.wd5.myworkdayjobs.com/wday/cxs/External"
+    },
+    {
+      "name": "Allianz US",
+      "ats": "workday",
+      "workday_url": "https://allianz.wd3.myworkdayjobs.com/wday/cxs/Allianz"
+    },
+    {
+      "name": "Bosch USA",
+      "ats": "workday",
+      "workday_url": "https://bosch.wd3.myworkdayjobs.com/wday/cxs/Bosch"
+    },
+    {
+      "name": "Bayer US",
+      "ats": "workday",
+      "workday_url": "https://career.bayer.com"
+    },
+    {
+      "name": "BASF North America",
+      "ats": "workday",
+      "workday_url": "https://basf.wd3.myworkdayjobs.com/wday/cxs/BASF"
+    },
+    {
+      "name": "Springer Nature US",
+      "ats": "greenhouse",
+      "slug": "springer-nature"
+    },
+    {
+      "name": "Axel Springer US (Business Insider)",
+      "ats": "greenhouse",
+      "slug": "axel-springer"
+    },
+    {
+      "name": "Heineken USA",
+      "ats": "workday",
+      "workday_url": "https://heineken.wd3.myworkdayjobs.com/wday/cxs/Heineken"
+    },
+    {
+      "name": "Wolters Kluwer US",
+      "ats": "workday",
+      "workday_url": "https://wolterskluwer.wd5.myworkdayjobs.com/wday/cxs/WKCareers"
+    },
+    {
+      "name": "Shell USA",
+      "ats": "workday",
+      "workday_url": "https://shell.wd3.myworkdayjobs.com/wday/cxs/ShellCareers"
+    },
+    {
+      "name": "Randstad US",
+      "ats": "workday",
+      "workday_url": "https://randstad.wd5.myworkdayjobs.com/wday/cxs/Randstad"
+    },
+    {
+      "name": "KPMG US (Dutch parent)",
+      "ats": "workday",
+      "workday_url": "https://kpmg.wd1.myworkdayjobs.com/wday/cxs/kpmg_external"
+    },
+    {
+      "name": "Spotify US",
+      "ats": "greenhouse",
+      "slug": "spotify"
+    },
+    {
+      "name": "Oatly US (Swedish)",
+      "ats": "greenhouse",
+      "slug": "oatly"
+    },
+    {
+      "name": "Polestar US (Swedish EV)",
+      "ats": "greenhouse",
+      "slug": "polestar"
+    },
+    {
+      "name": "Adevinta US (Schibsted)",
+      "ats": "greenhouse",
+      "slug": "adevinta"
+    },
+    {
+      "name": "\u00d8rsted US (clean energy)",
+      "ats": "workday",
+      "workday_url": "https://orsted.wd3.myworkdayjobs.com/wday/cxs/Orsted"
+    },
+    {
+      "name": "Shopify (US remote)",
+      "ats": "greenhouse",
+      "slug": "shopify"
+    },
+    {
+      "name": "Thomson Reuters US",
+      "ats": "workday",
+      "workday_url": "https://thomsonreuters.wd5.myworkdayjobs.com/wday/cxs/External"
+    },
+    {
+      "name": "Bombardier US",
+      "ats": "workday",
+      "workday_url": "https://bombardier.wd3.myworkdayjobs.com/wday/cxs/BombardierCareers"
+    },
+    {
+      "name": "Brookfield Asset Management US",
+      "ats": "workday",
+      "workday_url": "https://brookfield.wd5.myworkdayjobs.com/wday/cxs/Brookfield"
+    },
+    {
+      "name": "Lululemon US",
+      "ats": "workday",
+      "workday_url": "https://lululemon.wd3.myworkdayjobs.com/wday/cxs/lululemon"
+    },
+    {
+      "name": "Hootsuite US (remote)",
+      "ats": "greenhouse",
+      "slug": "hootsuite"
+    },
+    {
+      "name": "1Password (remote)",
+      "ats": "greenhouse",
+      "slug": "1password"
+    },
+    {
+      "name": "Gucci Americas (Kering)",
+      "ats": "workday",
+      "workday_url": "https://kering.wd3.myworkdayjobs.com/wday/cxs/KeringCareers"
+    },
+    {
+      "name": "Prada Group US",
+      "ats": "workday",
+      "workday_url": "https://prada.wd3.myworkdayjobs.com/wday/cxs/PradaGroupCareers"
+    },
+    {
+      "name": "Luxottica / EssilorLuxottica US",
+      "ats": "workday",
+      "workday_url": "https://essilorluxottica.wd3.myworkdayjobs.com/wday/cxs/EssilorLuxottica"
+    },
+    {
+      "name": "Pirelli Americas",
+      "ats": "workday",
+      "workday_url": "https://pirelli.wd3.myworkdayjobs.com/wday/cxs/Pirelli"
+    },
+    {
+      "name": "Ferrari North America",
+      "ats": "workday",
+      "workday_url": "https://ferrari.wd3.myworkdayjobs.com/wday/cxs/Ferrari"
+    },
+    {
+      "name": "Campari Group US (Aperol, Wild Turkey)",
+      "ats": "workday",
+      "workday_url": "https://camparigroup.wd3.myworkdayjobs.com/wday/cxs/Campari"
+    },
+    {
+      "name": "Santander US",
+      "ats": "workday",
+      "workday_url": "https://santander.wd3.myworkdayjobs.com/wday/cxs/Santander"
+    },
+    {
+      "name": "BBVA USA",
+      "ats": "workday",
+      "workday_url": "https://bbva.wd3.myworkdayjobs.com/wday/cxs/BBVA"
+    },
+    {
+      "name": "Zara / Inditex US",
+      "ats": "workday",
+      "workday_url": "https://inditex.wd3.myworkdayjobs.com/wday/cxs/Inditex"
+    },
+    {
+      "name": "Telefonica US (Vivo, Movistar)",
+      "ats": "workday",
+      "workday_url": "https://telefonica.wd3.myworkdayjobs.com/wday/cxs/Telefonica"
+    },
+    {
+      "name": "Sony Music Entertainment US",
+      "ats": "workday",
+      "workday_url": "https://sonycareers.com"
+    },
+    {
+      "name": "Toyota North America",
+      "ats": "workday",
+      "workday_url": "https://toyota.wd5.myworkdayjobs.com/wday/cxs/ToyotaNorthAmerica"
+    },
+    {
+      "name": "Rakuten Americas",
+      "ats": "greenhouse",
+      "slug": "rakuten"
+    },
+    {
+      "name": "NTT Data US",
+      "ats": "workday",
+      "workday_url": "https://nttdata.wd3.myworkdayjobs.com/wday/cxs/NTTDataCareers"
+    },
+    {
+      "name": "Mitsubishi UFJ Financial (MUFG) US",
+      "ats": "workday",
+      "workday_url": "https://mufgamericas.wd5.myworkdayjobs.com/wday/cxs/MUFG"
+    },
+    {
+      "name": "Samsung US (strategy/policy teams)",
+      "ats": "custom",
+      "careers_url": "https://www.samsung.com/us/careers"
+    },
+    {
+      "name": "LG Electronics US",
+      "ats": "workday",
+      "workday_url": "https://lgcareers.wd5.myworkdayjobs.com/wday/cxs/LGCareers"
+    },
+    {
+      "name": "Hyundai Motor America",
+      "ats": "workday",
+      "workday_url": "https://hyundai.wd5.myworkdayjobs.com/wday/cxs/Hyundai"
+    },
+    {
+      "name": "Kakao (Kakao Entertainment US)",
+      "ats": "greenhouse",
+      "slug": "kakao"
+    }
+  ]
+}
