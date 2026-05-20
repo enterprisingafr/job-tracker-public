@@ -1,11 +1,13 @@
 name: Job Tracker
 
 on:
-  schedule:
-    # Runs at 8:00 AM EST every Monday and Wednesday
-    - cron: "0 13 * * 1"   # Monday 13:00 UTC = 8:00 AM EST
-    - cron: "0 13 * * 3"   # Wednesday 13:00 UTC = 8:00 AM EST
-  workflow_dispatch:        # also lets you trigger manually from GitHub UI
+  # Schedule is disabled in this template repo — add it back after forking
+  # and configuring your secrets (see README Step 6).
+  # Example: runs at 8:00 AM EST every Monday and Wednesday
+  #   schedule:
+  #     - cron: "0 13 * * 1"
+  #     - cron: "0 13 * * 3"
+  workflow_dispatch:        # run manually from the Actions tab
 
 jobs:
   run-tracker:
