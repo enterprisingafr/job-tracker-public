@@ -30,9 +30,20 @@ CONFIG_PATH  = Path(__file__).parent / "companies.json"
 PROFILE_PATH = Path(__file__).parent / "profile.yaml"
 PROMPT_PATH  = Path(__file__).parent / "filter_prompt.txt"  # optional manual override
 
-ANTHROPIC_API_KEY = os.environ["ANTHROPIC_API_KEY"]
-GOOGLE_SHEETS_ID  = os.environ["GOOGLE_SHEETS_ID"]          # from sheet URL
-GOOGLE_CREDS_JSON = os.environ["GOOGLE_CREDS_JSON"]         # service-account JSON string
+def _require_env(name: str) -> str:
+    val = os.environ.get(name)
+    if not val:
+        log.error(
+            f"Missing required secret: {name}\n"
+            "Add it under Settings → Secrets and variables → Actions in your GitHub repo.\n"
+            "See README.md Step 6 for instructions."
+        )
+        raise SystemExit(1)
+    return val
+
+ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY", "")
+GOOGLE_SHEETS_ID  = os.environ.get("GOOGLE_SHEETS_ID", "")
+GOOGLE_CREDS_JSON = os.environ.get("GOOGLE_CREDS_JSON", "")
 
 # Job board domains that require payment to apply — links from these are excluded
 PAID_JOB_BOARD_DOMAINS = [
@@ -498,6 +509,12 @@ def passes_hard_filters(job: dict, profile: dict) -> bool:
 
 
 def main():
+    # Validate secrets before doing any work
+    global ANTHROPIC_API_KEY, GOOGLE_SHEETS_ID, GOOGLE_CREDS_JSON
+    ANTHROPIC_API_KEY = _require_env("ANTHROPIC_API_KEY")
+    GOOGLE_SHEETS_ID  = _require_env("GOOGLE_SHEETS_ID")
+    GOOGLE_CREDS_JSON = _require_env("GOOGLE_CREDS_JSON")
+
     config  = json.loads(CONFIG_PATH.read_text(encoding="utf-8"))
     profile = load_profile()
     base_prompt = build_filter_prompt(profile)
