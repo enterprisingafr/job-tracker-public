@@ -4,6 +4,8 @@ Automatically fetches job postings from dozens of employers, scores them with Cl
 
 **Stop manually scanning LinkedIn and 20 company career pages. Let the tracker do it.**
 
+> **Want a step-by-step setup guide?** Get the packaged version with full instructions at [pegzster.gumroad.com/l/job-tracker](https://pegzster.gumroad.com/l/job-tracker) ($19).
+
 ---
 
 ## What it does
